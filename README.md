@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Dolas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![Web Development Animation](https://your-image-url.com)](https://iconscout.com/lottie-animation/web-development-4518781)
+<img src="https://your-image-url.com" alt="Web Development Animation" width="300" />
 - 🌱 I’m currently learning **advanced state management and backend integrations.**
 
 - 👯 I’m looking to collaborate on **React.js projects focused on enhancing user experience.**
