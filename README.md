@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Dolas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://your-image-url.com" alt="Web Development Animation" width="300" />
+
 - 🌱 I’m currently learning **advanced state management and backend integrations.**
 
 - 👯 I’m looking to collaborate on **React.js projects focused on enhancing user experience.**
